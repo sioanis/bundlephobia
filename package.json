@@ -35,7 +35,7 @@
     "flatten": "^1.0.3",
     "git-url-parse": "^11.3.0",
     "github": "^10.0.0",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "hot-shots": "^6.8.5",
     "ipchecker": "^0.0.2",
     "is-empty-object": "^1.1.1",
