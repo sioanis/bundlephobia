@@ -39,7 +39,7 @@
     "hot-shots": "^6.8.5",
     "ipchecker": "^0.0.2",
     "is-empty-object": "^1.1.1",
-    "jsdom": "^16.4.0",
+    "jsdom": "^16.5.0",
     "koa": "^2.13.0",
     "koa-basic-auth": "^4.0.0",
     "koa-better-ratelimit": "^2.1.2",
